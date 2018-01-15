@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 239de8ea137fdab4eb2301cb3918bc34
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    4300000: Corner2
+    4300002: Corner2_Left
+    4300004: Corner2_Right
+    4300006: Corner1_Right
+    4300008: Corner1_Left
+    4300010: ThroneRoom
+    4300012: Dungeon
+    4300014: Hallway2
+    4300016: Hallway1
+    4300018: Corner1
+    4300020: Starter
+    4300022: DiningHall
+    4300024: StairPlatform
+    4300026: Stairs
+    4300028: Outside2
+    4300030: Outside
+    4300032: Transition
+    4300034: Hallway2_003
+    4300036: VillageCorner_Right
+    4300038: VillageJump
+    4300040: Village2
+    4300042: VillageCorner_Left
+    4300044: Village1
+    4300046: LeftCurve
+    4300048: LeftCurve_001
+    4300050: RightCurve_001
+    4300052: CornerCurve_Right
+    4300054: TransitionCurve
+    4300056: CornerCurve_Left
+    4300058: TransitionOutside
+    4300060: VillageRightTurn
+    4300062: VillageLeftTurn
+    4300064: InsideVillageTransition
+    4300066: VillageStraight2
+    4300068: VillageStraight1
+    4300070: InsideStairs
+    4300072: OutsideStraight2
+    4300074: OutsideStraight1
+    4300076: InsideOutsideTransition
+    4300078: InsideBothTurn2
+    4300080: InsideLeftTurn2
+    4300082: InsideRightTurn2
+    4300084: InsideRightTurn1
+    4300086: InsideLeftTurn1
+    4300088: InsideThroneRoom
+    4300090: InsideDungeon
+    4300092: InsideHallway2
+    4300094: InsideHallway1
+    4300096: InsideBothTurn1
+    4300098: InsideDiningHall
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

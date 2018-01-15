@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/InfinityGridLayoutGroup/Scenes/InfinityGridLayoutGroup.unity
+  isLoaded: 1
+  isActive: 1
